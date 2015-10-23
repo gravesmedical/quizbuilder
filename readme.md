@@ -9,3 +9,9 @@
 5. Teachers create Rubrics for Quizzes
 5. Students take Quizzes
 6. Students receive Grades
+
+## Potential UI Libraries for Form Building
+
+http://alpacajs.org/
+https://github.com/dobtco/formbuilder
+https://github.com/joshfire/jsonform
