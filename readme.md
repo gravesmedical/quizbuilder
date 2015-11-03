@@ -14,6 +14,8 @@
 
 http://alpacajs.org/
 
+Alapaca JS is industrial strength library for building forms. Very well maintained. 
+
 https://github.com/dobtco/formbuilder
 
-https://github.com/joshfire/jsonform
+dotco/formbuilder is a good form building library but not maintained. Last update was about 2 years ago.
